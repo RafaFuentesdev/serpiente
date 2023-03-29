@@ -1,6 +1,6 @@
 # **Juego de la Serpiente hecho con Python**:
 
-![Imagen del juego del Snake](src="/static/snake.png")
+![Imagen del juego del Snake](/static/snake.png?raw=true)
 
 ## Acceder a los cuadernos de Google Colab:
 ### 1. *Empezando el juego de la Serpiente*
